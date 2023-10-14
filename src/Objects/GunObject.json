@@ -1,0 +1,43 @@
+[
+    {"Name": "Smith & Wesson MP-15 Sport",
+    "type": "AR-15",
+    "Description": "A lightweight, durable, modular firearm for hunting, target shooting, sport and self-defense",
+    "price": 599.99,
+    "stars": "4.5",
+    "reviews": ["Loved this rifle!","Exceeded expectations"],
+    "image": "",
+    "onSale": "False",
+    "salePrice": 499.99,
+    "inStock": 5,
+    "totalSales": 0,
+    "id": 1
+  },
+ {
+    "Name": "Ruger eC9S",
+    "type": "Handgun",
+    "Description": "A subcompact 9-round handgun. 9mm with a synthetic gun metal slide.",
+    "price": 299.99,
+    "stars": "3.8",
+    "reviews": ["Excellent carry pistol","Accurate out of the box"],
+    "image": "",
+    "onSale": "True",
+    "salePrice": 250.99,
+    "inStock": 5,
+    "totalSales": 0,
+    "id": 2
+},
+{
+    "Name": "Remington 870",
+    "type": "Shotgun ",
+    "Description": "A 5 round pump action shotgun. 18.5 inch barrel with a pistol grip.",
+    "price": 399.99,
+    "stars": "3.8",
+    "reviews": ["Use this all the time skeet shooting","Great with Federal 8 shot"],
+    "image": "",
+    "onSale": "False",
+    "salePrice": 250.99,
+    "inStock": 5, 
+    "totalSales": 0,
+    "id": 3
+}
+]

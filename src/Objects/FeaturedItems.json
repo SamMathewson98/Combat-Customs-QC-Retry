@@ -1,0 +1,21 @@
+[{
+    "priority": 1,
+    "image": "./Color Palette.jpeg",
+    "title": "Color Palette",
+    "action": "View paint choices",
+    "description": "Plenty of color options and patterns to guarantee your guns stand out (or blend in) at the range."
+},
+{
+    "priority": 2,
+    "image": "../Components/Spray Paint.jpg",
+    "title": "Learn Our Process",
+    "action": "How it Works",
+    "description": "Each paint job is a unique work of art. Take a look at how we create and protect it for everyday use."
+},
+{
+    "priority": 3,
+    "image": "../Components/Shipping.jpg",
+    "title": "Shipping Made Easy",
+    "action": "Ship Now",
+    "description": "Shipping firearms doesn't have to be complicated. Find out how we ensure the process is simple, safe, and legal."
+}]
